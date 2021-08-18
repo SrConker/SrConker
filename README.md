@@ -9,10 +9,11 @@
 - 🎶 &nbsp; I'm half programmer and half musician.
 
 <p align="center">
-  <img src+"https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+  <img src+"https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </p>
 
 <h3> 🛠🛠 &nbsp;Something about my skills</h3>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat&logo=python)
   ![C#](https://img.shields.io/badge/-C#-0d0d0d?style=flat&logo=C_Sharp&logoColor=2ECA00)
