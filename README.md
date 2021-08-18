@@ -39,7 +39,7 @@
   
 - ✏ &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d0d0d?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Photoshop](https://img.shields.io/badge-Photoshop-0d0d0d?style=flat&logo=adobe-photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-0d0d0d?style=flat&logo=adobe-photoshop)
 
 <h3> 🔍🔍 &nbsp;Some Information about my github profile.</h3>
 
@@ -47,6 +47,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrConker&show_icons=true&theme=radical" />
 </a>
+<br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrConker&layout=compact" />
