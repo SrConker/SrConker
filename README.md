@@ -17,7 +17,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat&logo=python)
   ![C#](https://img.shields.io/badge/-C#-0d0d0d?style=flat&logo=C_Sharp&logoColor=2ECA00)
-  ![C++](https://img.shields.io/badge/-C++-0d0d0d?style=flat=logo=C%2b%2b&logoColor=00F0FF)
+  ![C++](https://img.shields.io/badge/-C++-0d0d0d?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-0d0d0d?style=flat&logo=Java&logoColor=FF7000)
 
 - 🌐 &nbsp;
@@ -41,11 +41,23 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d0d0d?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Photoshop](https://img.shields.io/badge-Photoshop-0d0d0d?style=flat&logo=adobe-photoshop)
 
-<h3> 🔍🔍 &nbsp;Some Information about my github profile.</3>
+<h3> 🔍🔍 &nbsp;Some Information about my github profile.</h3>
 
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrConker&show_icons=true&theme=radical" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrConker&layout=compact" />
 </a>
+
+<h3> 📞📞 My Personal Info </h3>
+
+<p align="center">
+  <a href="https://www.facebook.com/SrElder.Pum/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Elder%20Pum-blue?style=flat-square&logo=facebook"></a>
+  <a href="https://www.instagram.com/elder.exe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-elder.exe-blue?style=flat-square&logo=instagram"></a>
+  <a href="mailto:elderpum@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ElderPum@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+🔥 From [SrConker](https://github.com/SrConker)
