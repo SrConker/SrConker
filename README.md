@@ -9,7 +9,7 @@
 - 🎶 &nbsp; I'm half programmer and half musician.
 
 <p align="center">
-  <img src+"https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </p>
 
 <h3> 🛠🛠 &nbsp;Something about my skills</h3>
@@ -42,5 +42,10 @@
   ![Photoshop](https://img.shields.io/badge-Photoshop-0d0d0d?style=flat&logo=adobe-photoshop)
 
 <h3> 🔍🔍 &nbsp;Some Information about my github profile.</3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrConker&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrConker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrConker&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrConker&layout=compact" />
+</a>
