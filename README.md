@@ -5,8 +5,6 @@
 - 🎓 &nbsp; Actually I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.
 - 🌱 &nbsp; I like to explore new languages and learning a lot of new technologies. Right now I'm learning React.
 - 🧐 &nbsp; I can speak fluent spanish and english and I'm still learning french.
-- ⚡ &nbsp; I love to play videogames. Fun Fact: my github nickname is a reference to "Conker's Bad Fur Day" game.
-- 🎶 &nbsp; I'm half programmer and half musician.
 
 <p align="center">
   <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
