@@ -3,7 +3,7 @@
 <h3> 🏃‍♂️🏃‍♂ &nbsp;About Me! </h3>
 
 - 🎓 &nbsp; Actually I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.
-- 🌱 &nbsp; I like to explore new languages and learning a lot of new technologies. Right now I'm learning React.
+- 🌱 &nbsp; I like to explore new languages and learning a lot of new technologies. Right now my work is in Angular and Node (Fullstack Developer).
 - 🧐 &nbsp; I can speak fluent spanish and english and I'm still learning french.
 
 <p align="center">
